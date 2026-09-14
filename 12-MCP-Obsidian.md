@@ -1,4 +1,4 @@
-# 屏北高中 Agent 基本功懶人包 #14：連接 Obsidian
+# 屏北高中 Agent 基本功懶人包 #12：連接 Obsidian
 
 > 狀態：**⬜ 骨架（待實測）**｜更新日期：2026-09-14
 > 適用：Codex Desktop、Claude Code

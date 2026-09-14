@@ -39,9 +39,9 @@
 | 03–09 | （保留） | 之後的基礎工具與技能 | | |
 | 10 | [連接 Padlet](10-MCP-Padlet.md) | Padlet 貼文整理與建立 | A6 | ⬜ 骨架 |
 | 11 | [連接 NotebookLM](11-MCP-NotebookLM.md) | 備課包、講座摘要 | A7 | ⬜ 骨架 |
-| 12 | [連接 Wordwall](12-MCP-Wordwall.md) | 教材轉遊戲活動 | A8 | ⬜ 骨架 |
-| 13 | [連接 GitHub](13-MCP-GitHub.md) | HTML 簡報部署到 GitHub Pages | A9 | ⬜ 骨架 |
-| 14 | [連接 Obsidian](14-MCP-Obsidian.md) | 第二大腦 | A11 | ⬜ 骨架 |
+| 12 | [連接 Obsidian](12-MCP-Obsidian.md) | 第二大腦（接在 NotebookLM 之後：筆記本整理完的知識存進自己的筆記庫） | A11 | ⬜ 骨架 |
+| 13 | [連接 Wordwall](13-MCP-Wordwall.md) | 教材轉遊戲活動 | A8 | ⬜ 骨架 |
+| 14 | [連接 GitHub](14-MCP-GitHub.md) | HTML 簡報部署到 GitHub Pages | A9 | ⬜ 骨架 |
 | 15 | [連接 Canva](15-MCP-Canva.md) | 簡報與文宣設計 | （教材尚未涵蓋） | ⬜ 骨架 |
 | 16 | [連接 Kahoot](16-MCP-Kahoot.md) | 課中概念辨識測驗 | （教材尚未涵蓋） | ⬜ 骨架 |
 
@@ -52,7 +52,7 @@
 | 範圍 | 放什麼 |
 |---|---|
 | **00–09** | 基礎工具與技能（研習前一定要做的） |
-| **10–49** | MCP 與外部服務連線，**依教材單元的先後排序** |
+| **10–49** | MCP 與外部服務連線，**依研習的使用順序排列**（大致跟著教材單元，NotebookLM → Obsidian 刻意相連） |
 | **50–** | 保留 |
 
 - 新增時取該範圍的**下一個空號**，**不要重排既有編號**（老師手上的舊連結才不會失效）
