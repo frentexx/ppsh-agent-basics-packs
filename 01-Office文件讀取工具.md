@@ -98,15 +98,15 @@ npx skills add frentexx/ppsh-agent-skills -s ppsh-office-reader -a claude-code -
 
 **不能用 npx 時**：到 [ppsh-agent-skills](https://github.com/frentexx/ppsh-agent-skills) 下載 ZIP，把 `skills\ppsh-office-reader` 資料夾複製到：
 
-- Codex Desktop：`%USERPROFILE%\.codex\skills\`
+- Codex Desktop：`%USERPROFILE%\.agents\skills\`
 - Claude Code：`%USERPROFILE%\.claude\skills\`
 
 ## 步驟四：確認裝好了（只讀）
 
 ```powershell
 markitdown --version
-Test-Path "$env:USERPROFILE\.codex\skills\ppsh-office-reader\SKILL.md"
-Test-Path "$env:USERPROFILE\.claude\skills\ppsh-office-reader\SKILL.md"
+Test-Path "$env:USERPROFILE\.agents\skills\ppsh-office-reader\SKILL.md"   # Codex Desktop
+Test-Path "$env:USERPROFILE\.claude\skills\ppsh-office-reader\SKILL.md"   # Claude Code
 ```
 
 - `markitdown` 有版本號 ✅
