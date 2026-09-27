@@ -41,15 +41,21 @@
 | 02 | [專案初始化、開工、收工技能](02-專案初始化開工收工技能.md) | 三個技能，換電腦、開新對話都接得上 | A5 | ✅ |
 | 03 | [教材產出技能包](03-教材產出技能包.md) | 三個技能：圖卡（PNG）、可編輯簡報（.pptx）、網頁簡報（.html）。**都不需要 API 金鑰** | 速成版 S2 | ✅ |
 | 04–09 | （保留） | 之後的基礎工具與技能 | | |
-| 10 | [連接 Padlet](10-MCP-Padlet.md) | Padlet 貼文整理與建立 | A6 | ⬜ 骨架 |
-| 11 | [連接 NotebookLM](11-MCP-NotebookLM.md) | 備課包、講座摘要 | A7 | ⬜ 骨架 |
-| 12 | [連接 Obsidian](12-MCP-Obsidian.md) | 第二大腦（接在 NotebookLM 之後：筆記本整理完的知識存進自己的筆記庫） | A11 | ⬜ 骨架 |
-| 13 | [連接 Wordwall](13-MCP-Wordwall.md) | 教材轉遊戲活動 | A8 | ⬜ 骨架 |
-| 14 | [連接 GitHub](14-MCP-GitHub.md) | HTML 簡報部署到 GitHub Pages | A9 | ⬜ 骨架 |
-| 15 | [連接 Canva](15-MCP-Canva.md) | 簡報與文宣設計 | （教材尚未涵蓋） | ⬜ 骨架 |
-| 16 | [連接 Kahoot](16-MCP-Kahoot.md) | 課中概念辨識測驗 | （教材尚未涵蓋） | ⬜ 骨架 |
+| 10 | [連接 Padlet](10-MCP-Padlet.md) | 開牆、讀牆、整理學生回應（**需 Padlet 付費方案**） | A6 | 🟡 待實測 |
+| 11 | [連接 NotebookLM](11-MCP-NotebookLM.md) | 備課包、摘要、測驗（非官方工具，登入約 2–4 週過期） | A7 | 🟡 待實測 |
+| 12 | [連接 Obsidian](12-MCP-Obsidian.md) | 第二大腦（接在 NotebookLM 之後：筆記本整理完的知識存進自己的筆記庫） | A11 | 🟡 待實測 |
+| 13 | [連接 Wordwall](13-MCP-Wordwall.md) | 教材轉遊戲活動（命令列技能，不是 MCP） | A8 | 🟡 待實測 |
+| 14 | [連接 GitHub](14-MCP-GitHub.md) | HTML 簡報部署到 GitHub Pages | A9 | 🟡 待實測 |
+| 15 | [連接 Canva](15-MCP-Canva.md) | 簡報與文宣設計（官方 MCP，登入即用） | （教材尚未涵蓋） | 🟡 待實測 |
+| 16 | [連接 Kahoot](16-MCP-Kahoot.md) | 課中概念辨識測驗（官方 MCP，登入即用） | （教材尚未涵蓋） | 🟡 待實測 |
+| 17 | [連接 Google Classroom 與雲端硬碟](17-clasp-Google-Classroom與雲端硬碟.md) | 列課程、貼公告、建作業；讀寫雲端硬碟（clasp＋Apps Script，不是 MCP） | P2-07 派收作業 | 🟡 待實測 |
+| 18 | [連接 Firebase](18-MCP-Firebase.md) | HTML 互動簡報的即時文字雲、投票（**選修**：延伸挑戰） | A9 延伸 | 🟡 待實測 |
 
-**⬜ 骨架**＝編號與用途已定，安裝步驟尚未實測，**請勿照著安裝**。
+**🟡 待實測**＝已依官方文件與原作資料寫好安裝步驟，可以照著裝，但還沒在研習電腦上實測過；遇到問題請截圖給研習講師。
+
+> **10–16 以 Codex Desktop 為主**（Claude Code 附差異說明）。需要金鑰的（Padlet、GitHub 進階）由 AI 另開小視窗讓老師自己貼，**金鑰不會出現在對話與設定檔裡**；Canva、Kahoot 用官方遠端 MCP，在瀏覽器登入即可。
+>
+> 使用學校 NMK 點數池的 Codex：之後若重新套用 NMK 連線設定，MCP 設定會被蓋掉，**再貼一次該包的安裝那段話**就好。
 
 ## 編號規則（新增懶人包時）
 
