@@ -47,7 +47,7 @@
 | 13 | [連接 Wordwall](13-MCP-Wordwall.md) | 教材轉遊戲活動（命令列技能，不是 MCP） | A8 | 🟡 待實測 |
 | 14 | [連接 GitHub](14-MCP-GitHub.md) | HTML 簡報部署到 GitHub Pages | A9 | 🟡 待實測 |
 | 15 | [連接 Canva](15-MCP-Canva.md) | 簡報與文宣設計（官方 MCP，登入即用） | （教材尚未涵蓋） | 🟡 待實測 |
-| 16 | [連接 Kahoot](16-MCP-Kahoot.md) | 課中概念辨識測驗（官方 MCP，登入即用） | （教材尚未涵蓋） | 🟡 待實測 |
+| 16 | [連接 Kahoot](16-MCP-Kahoot.md) | 課中概念辨識測驗、作文批閱結果轉複習題（官方 MCP，登入即用；Codex 外掛商店沒有，要用本包加） | 速成版 P18 延伸 | 🟡 連線已確認，待實機登入 |
 | 17 | [連接 Google Classroom 與雲端硬碟](17-clasp-Google-Classroom與雲端硬碟.md) | 列課程、貼公告、建作業；讀寫雲端硬碟（clasp＋Apps Script，不是 MCP） | P2-07 派收作業 | 🟡 待實測 |
 | 18 | [連接 Firebase](18-MCP-Firebase.md) | HTML 互動簡報的即時文字雲、投票（**選修**：延伸挑戰） | A9 延伸 | 🟡 待實測 |
 
